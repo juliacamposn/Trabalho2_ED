@@ -36,4 +36,5 @@ Os principais pontos foram:
 
 ## 📈 Resultados
 No arquivo resultados_completos.csv encontra-se os resultados obtidos e as comparações de tempo entre hash simples e o duplo. Na análise mostra como o tempo de busca e inserção é impactado pela taxa de ocupação da tabela para os dois métodos de tratamento de colisão. Foram criadas funções específicas para buscar em uma tabela hash com ocupação de 10% até 99%. Na inserção, para a comparação de tempo foi usada de uma tabela com 6100 buckets iniciais  e com 1000 buckets iniciais inserindo todas as cidades, o tempo de execução foi medido com gprof.
-![tabela de resultados](image.png)
+
+![tabela de resultados](/home/julia/Documents/ED/trabalho2/image.png)
